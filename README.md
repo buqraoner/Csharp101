@@ -1,2 +1,8 @@
 # C# Patikasi
-C# 101 Patikası
+
+
+## Patika.dev kapsamında aldığım c# Eğitimi
+
+
+
+
