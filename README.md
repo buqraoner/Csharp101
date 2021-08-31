@@ -1,2 +1,2 @@
-# C-101
+# C# Patikasi
 C# 101 Patikası
