@@ -24,5 +24,5 @@
 
 - Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
+![Resim](https://www.hizliresim.com/pxsst0z)
 
-   ![Resim](https://www.hizliresim.com/pxsst0z)
