@@ -36,6 +36,6 @@
 - Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 
- [Resim](https://www.hizliresim.com/ihs9ndb)
+ [](https://www.hizliresim.com/ihs9ndb)
 
  

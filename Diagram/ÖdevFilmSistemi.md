@@ -25,4 +25,4 @@
 - Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 
-   [FilmKiralama](https://www.hizliresim.com/pxsst0z)
+   [](https://www.hizliresim.com/pxsst0z)
