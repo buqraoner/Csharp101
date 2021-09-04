@@ -3,7 +3,9 @@
 ## Patika.dev kapsamında aldığım c# Eğitimi
 
 
-[Resim](https://i.hizliresim.com/793oheb.png)
+
+
+
 
 ### Eğitim İçeriği
 
@@ -14,11 +16,21 @@
 -  
 -  Object Oriented Programming
 -  
--  isual Studio Code Kullanımı
+-  Visual Studio Code Kullanımı
 -  
 -  GIT
 -  
 -  İleri Seviye GIT
 -  
 -  SQL
+-
+- C# 101
+-
+- C# Projeleri
+
+
+
+[Resim](https://i.hizliresim.com/793oheb.png)
+
+
 
