@@ -1,0 +1,49 @@
+using System;
+
+
+namespace VARS
+{
+    Class Program
+    {
+
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Bir karakter giriniz:");
+            char ch =(char)Console.Read();
+
+        }
+
+        if(Char.IsUpper(ch)){
+            Console.WriteLine("Girilen Karakter büyük bir karakter");
+
+        }
+
+            else if(Char.IsLower(ch)){
+                Console.WriteLine("Girilen karakter kucuk bir karakter");
+            }
+
+            else if (Char.IsDigit(ch)){
+
+                Console.WriteLine("Karakter bir rakamdır");
+
+            }
+            else 
+            {
+                Console.WriteLine("Karakter alfanumerikt bir ifade");
+            }
+
+
+
+
+
+            //                   Char.IsUpper
+            //                   Char.IsUpper
+            //                   Char.Islower
+            //                   Char.IsDigit 
+
+
+
+
+    }
+}
