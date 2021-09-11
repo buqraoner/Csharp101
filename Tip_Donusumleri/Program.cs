@@ -89,7 +89,7 @@ namespace Tip_Donusumleri
 
             rakam1 = Int32.Parse(metin1)
             Console.WriteLine("Rakam1 :" +rakam1);
-            Console.WriteLine("double1 :" + double1;
+            Console.WriteLine("double1 :" + double1);
 
 
         }
