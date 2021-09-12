@@ -51,3 +51,13 @@ class Solution
         textWriter.Close();
     }
 }
+
+
+
+// Sample Input
+// 
+// 6
+// 1 2 3 4 10 11
+// Sample Output
+// 
+// //31
