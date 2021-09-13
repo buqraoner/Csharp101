@@ -36,4 +36,11 @@ public class Example
             Console.WriteLine(dinosaur);
         }
     }
+
+// Reverse<T>(T[])
+
+
+
+
+
 }
