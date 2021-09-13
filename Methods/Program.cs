@@ -25,10 +25,11 @@ namespace Methods
             }
             class Metotlar
             {
-               void EkranaYazdir(string veri)
-               {
-                   Console.WriteLine(veri);
-               }
+            internal void EkranaYazdir(string v)
+            {
+                throw new NotImplementedException();
+            }
+
             }
         }
     
