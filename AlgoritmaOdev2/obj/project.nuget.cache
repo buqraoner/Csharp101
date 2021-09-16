@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+1rdX+v+4xkmQW+f8PCcADX1NHEt4a13SLZ+UJ5QJ3XaLSWUw/vWA53gS93fnyczb0pw+2PrziTo0ZglkRzFyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\AlgoritmaOdev2\\AlgoritmaOdev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

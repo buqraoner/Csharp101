@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.AssemblyInfo.cs
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\AlgoritmaOdev2\bin\Debug\netcoreapp3.1\AlgoritmaOdev2.exe
+C:\Users\bolet\source\repos\AlgoritmaOdev2\bin\Debug\netcoreapp3.1\AlgoritmaOdev2.deps.json
+C:\Users\bolet\source\repos\AlgoritmaOdev2\bin\Debug\netcoreapp3.1\AlgoritmaOdev2.runtimeconfig.json
+C:\Users\bolet\source\repos\AlgoritmaOdev2\bin\Debug\netcoreapp3.1\AlgoritmaOdev2.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\AlgoritmaOdev2\bin\Debug\netcoreapp3.1\AlgoritmaOdev2.dll
+C:\Users\bolet\source\repos\AlgoritmaOdev2\bin\Debug\netcoreapp3.1\AlgoritmaOdev2.pdb
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.dll
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.pdb
+C:\Users\bolet\source\repos\AlgoritmaOdev2\obj\Debug\netcoreapp3.1\AlgoritmaOdev2.genruntimeconfig.cache
