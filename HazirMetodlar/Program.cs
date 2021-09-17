@@ -25,9 +25,9 @@ namespace HazirMetodlar
 
             Console.WriteLine(degisken.CompareTo(degisken2));
             Console.WriteLine(String.Compare(degisken, degisken2, true));
-            Console.WriteLine(String.Compare(degisken, degisken2, false));
+            
             // false buyuk kücük harf duyarlı
-            // true duyarli
+            // true duyarliConsole.WriteLine(String.Compare(degisken, degisken2, false));
 
             //Contains
 
