@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OA9FMNF/8B7sDES+x1IAh1ZG/2U6Nia4vfjrtoyyP2poc389XmVEtn5CwOG+nGXplhf1g89psOaZ1BI4lBLUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\DateTime\\DateTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

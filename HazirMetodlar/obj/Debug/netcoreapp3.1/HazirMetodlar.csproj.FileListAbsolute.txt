@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\HazirMetodlar\bin\Debug\netcoreapp3.1\HazirMetodlar.exe
+C:\Users\bolet\source\repos\HazirMetodlar\bin\Debug\netcoreapp3.1\HazirMetodlar.deps.json
+C:\Users\bolet\source\repos\HazirMetodlar\bin\Debug\netcoreapp3.1\HazirMetodlar.runtimeconfig.json
+C:\Users\bolet\source\repos\HazirMetodlar\bin\Debug\netcoreapp3.1\HazirMetodlar.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\HazirMetodlar\bin\Debug\netcoreapp3.1\HazirMetodlar.dll
+C:\Users\bolet\source\repos\HazirMetodlar\bin\Debug\netcoreapp3.1\HazirMetodlar.pdb
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.AssemblyInfo.cs
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.dll
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.pdb
+C:\Users\bolet\source\repos\HazirMetodlar\obj\Debug\netcoreapp3.1\HazirMetodlar.genruntimeconfig.cache

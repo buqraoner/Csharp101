@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzulXgw2aAk4BBJkJ31XkwSIxAyztOZLHLPz9CgY28veFGep+QCzXTtFYuWwbZtFiEuV+vxoq0eohBaS8rRGQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\HazirMetodlar\\HazirMetodlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
