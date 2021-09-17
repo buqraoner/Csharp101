@@ -1,0 +1,16 @@
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.csproj.AssemblyReference.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.AssemblyInfoInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.AssemblyInfo.cs
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\Generic_List.exe
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\Generic_List.deps.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\Generic_List.runtimeconfig.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\Generic_List.runtimeconfig.dev.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\Generic_List.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\ref\Generic_List.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\bin\Debug\net5.0\Generic_List.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\ref\Generic_List.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Generic_List\obj\Debug\net5.0\Generic_List.genruntimeconfig.cache
