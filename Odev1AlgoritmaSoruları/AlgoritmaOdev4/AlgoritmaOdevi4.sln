@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaOdevi4", "AlgoritmaOdevi4.csproj", "{BFEAC439-DF66-404E-8B51-985A21C18BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEAC439-DF66-404E-8B51-985A21C18BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEAC439-DF66-404E-8B51-985A21C18BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEAC439-DF66-404E-8B51-985A21C18BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEAC439-DF66-404E-8B51-985A21C18BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B267147-0EDC-4A13-82C2-2622B4CE1E87}
+	EndGlobalSection
+EndGlobal
