@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\AlgoritmaOdev3\obj\Debug\AlgoritmaOdev3.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\AlgoritmaOdev3\obj\Debug\AlgoritmaOdev3.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\AlgoritmaOdev3\bin\Debug\AlgoritmaOdev3.exe.config
+C:\Users\bolet\source\repos\AlgoritmaOdev3\bin\Debug\AlgoritmaOdev3.exe
+C:\Users\bolet\source\repos\AlgoritmaOdev3\bin\Debug\AlgoritmaOdev3.pdb
+C:\Users\bolet\source\repos\AlgoritmaOdev3\obj\Debug\AlgoritmaOdev3.exe
+C:\Users\bolet\source\repos\AlgoritmaOdev3\obj\Debug\AlgoritmaOdev3.pdb
