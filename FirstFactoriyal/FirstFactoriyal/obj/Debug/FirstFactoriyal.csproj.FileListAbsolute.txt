@@ -1,0 +1,7 @@
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\obj\Debug\FirstFactoriyal.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\obj\Debug\FirstFactoriyal.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\bin\Debug\FirstFactoriyal.exe.config
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\bin\Debug\FirstFactoriyal.exe
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\bin\Debug\FirstFactoriyal.pdb
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\obj\Debug\FirstFactoriyal.exe
+C:\Users\bolet\source\repos\FirstFactoriyal\FirstFactoriyal\obj\Debug\FirstFactoriyal.pdb
