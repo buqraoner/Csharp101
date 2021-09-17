@@ -1,0 +1,16 @@
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\StringInt_Mi.exe
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\StringInt_Mi.deps.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\StringInt_Mi.runtimeconfig.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\StringInt_Mi.runtimeconfig.dev.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\StringInt_Mi.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\ref\StringInt_Mi.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\bin\Debug\net5.0\StringInt_Mi.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.csproj.AssemblyReference.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.AssemblyInfoInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.AssemblyInfo.cs
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.csproj.CoreCompileInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\ref\StringInt_Mi.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\StringInt_Mi\obj\Debug\net5.0\StringInt_Mi.genruntimeconfig.cache
