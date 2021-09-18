@@ -1,0 +1,16 @@
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.exe
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.deps.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.genruntimeconfig.cache
