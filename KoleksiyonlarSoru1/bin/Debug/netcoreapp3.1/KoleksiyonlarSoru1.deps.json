@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KoleksiyonlarSoru1/1.0.0": {
+        "runtime": {
+          "KoleksiyonlarSoru1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KoleksiyonlarSoru1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
