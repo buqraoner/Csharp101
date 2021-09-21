@@ -7,7 +7,7 @@ namespace inheritance
         static void Main(string[] args)
         {
                     //      Canlılar
-                    // bitkiler             hayvanlar                
+                    //          bitkiler             hayvanlar                
                     //
                     //
                     //
@@ -20,7 +20,13 @@ namespace inheritance
             tohumluBitki.Bosaltim();
             tohumluBitki.FotosentezYapmak();
             tohumluBitki.TohumlaCogalma();
-            
+
+            Kuslar martı = new Kuslar();
+            Martı.Solunum();
+            martı.Beslenme();
+            martı.Bosaltim();
+            martı.Adaptasyon();
+            martı.Ucmak();            
 
         }            
     }            
