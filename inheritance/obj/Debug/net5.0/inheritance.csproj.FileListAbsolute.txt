@@ -1,0 +1,5 @@
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
