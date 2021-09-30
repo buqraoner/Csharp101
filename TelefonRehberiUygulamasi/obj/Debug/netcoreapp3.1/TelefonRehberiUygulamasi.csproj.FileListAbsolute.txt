@@ -1,0 +1,14 @@
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.csproj.AssemblyReference.cache
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.AssemblyInfoInputs.cache
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.AssemblyInfo.cs
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\bin\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.exe
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\bin\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.deps.json
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\bin\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.runtimeconfig.json
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\bin\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.runtimeconfig.dev.json
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\bin\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.dll
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\bin\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.pdb
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.dll
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.pdb
+C:\Users\bolet\source\repos\TelefonRehberiUygulamasi\obj\Debug\netcoreapp3.1\TelefonRehberiUygulamasi.genruntimeconfig.cache

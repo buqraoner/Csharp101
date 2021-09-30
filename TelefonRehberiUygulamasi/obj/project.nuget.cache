@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kU1tu9z4v7AZhx9Nr8jwR3TJ3He+UuXKuLt98UXTuYXGUDD22G64DVQFscNzFylpRGMYoUeTuwIzZ3Xm1fn5WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bolet\\source\\repos\\TelefonRehberiUygulamasi\\TelefonRehberiUygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
