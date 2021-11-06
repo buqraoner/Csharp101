@@ -1,0 +1,16 @@
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\OrtalamaHesaplama.exe
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\OrtalamaHesaplama.deps.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\OrtalamaHesaplama.runtimeconfig.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\OrtalamaHesaplama.runtimeconfig.dev.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\OrtalamaHesaplama.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\ref\OrtalamaHesaplama.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\bin\Debug\net5.0\OrtalamaHesaplama.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.AssemblyInfoInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.AssemblyInfo.cs
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\ref\OrtalamaHesaplama.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\OrtalamaHesaplama\obj\Debug\net5.0\OrtalamaHesaplama.genruntimeconfig.cache
