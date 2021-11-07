@@ -26,8 +26,34 @@ namespace OrtalamaHesaplama
             int n0 = 0 , n1 = 1;
 
             Console.Write(n0+ " "+ n1);
-           
           
+            int Fibonnaci = 0;
+
+          for (int sayac = 2; sayac<derinlik; sayac++){
+
+            int geciciDegerTutucu = n0+n1;
+            
+            Fibonnaci+=geciciDegerTutucu;
+            Console.Write(" "+ geciciDegerTutucu);
+            
+            n0 = n1;
+            n1 = geciciDegerTutucu;
+
+          }
+            Fibonnaci +=1;
+            Console.WriteLine("\n ");
+            Fibonnaci = Fibonnaci/derinlik;
+
+
+            Console.Write("Girdiğiniz dizinin ortalaması "+ Fibonnaci);
+
+          
+          
+
+
+
+
+ 
               
 
 
