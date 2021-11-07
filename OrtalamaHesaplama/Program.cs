@@ -18,17 +18,15 @@ namespace OrtalamaHesaplama
 
         static void Main(string[] args)
         {
-           Console.WriteLine("Bir adet değer giriniz ");
 
-            var Deger = Console.ReadLine();
+            Console.WriteLine("Dizi Derinliği giriniz ");
 
+            int derinlik = Convert.ToInt32(Console.ReadLine());
 
+            int n0 = 0 , n1 = 1;
 
-
-
-           Console.WriteLine("Girdiğiniz dizinin boyutu : "+ Deger);
-
-        
+            Console.Write(n0+ " "+ n1);
+           
           
               
 
