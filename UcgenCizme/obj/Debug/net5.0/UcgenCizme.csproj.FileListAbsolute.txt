@@ -1,0 +1,16 @@
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\UcgenCizme.exe
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\UcgenCizme.deps.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\UcgenCizme.runtimeconfig.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\UcgenCizme.runtimeconfig.dev.json
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\UcgenCizme.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\ref\UcgenCizme.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\bin\Debug\net5.0\UcgenCizme.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.csproj.AssemblyReference.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.AssemblyInfoInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.AssemblyInfo.cs
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.csproj.CoreCompileInputs.cache
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\ref\UcgenCizme.dll
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.pdb
+C:\Users\bolet\OneDrive\Masaüstü\Kodlar\Git101Patikasi\Csharp101\UcgenCizme\obj\Debug\net5.0\UcgenCizme.genruntimeconfig.cache
