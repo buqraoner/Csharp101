@@ -17,6 +17,10 @@ namespace UcgenCizme
     Kod tekrarından kaçınılmalı
     Single Responsibility kuralına uygun şekilde, uygulama sınıflara ve metotlara bölünmeli.
 
+
+    sss
+    
+
 */  
 
 
